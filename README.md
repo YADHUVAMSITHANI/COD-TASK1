@@ -34,8 +34,7 @@ DESCRIPTION : The task involves implementing a simple linear regression model on
    - Interpret the visualizations and performance metrics to determine the model's accuracy.
    - Discuss any discrepancies and potential improvements, such as using more features or trying more complex models if necessary.
 
-By following these steps, one can implement, evaluate, and visualize a simple linear regression model, providing insights into its performance and accuracy in predicting continuous target variables.
- This structured approach ensures a comprehensive analysis of the model's effectiveness and areas for potential enhancement.
+By following these steps, one can implement, evaluate, and visualize a simple linear regression model, providing insights into its performance and accuracy in predicting continuous target variables.This structured approach ensures a comprehensive analysis of the model's effectiveness and areas for potential enhancement.
 **CONCLUSION** :
 In conclusion, our structured approach to implementing a simple linear regression model on the Boston Housing dataset offers a clear path to predictive modeling:
 
